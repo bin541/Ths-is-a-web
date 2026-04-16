@@ -1,9 +1,10 @@
-# This-is-a-web
-如上所知，这是一个web，用来测试web的一个容器。
-这只能是静态网站，并且更新与访问速度慢（可能需要代理）。
-此项目存在不稳定性，web会时刻更新或者修改，甚至被移除...
+This-is-a-web
 
-请使用 https://qwqbin.github.io/Ths-is-a-web/ 此链接来访问。
-使用 https://qwqbin.github.io/Ths-is-a-web/study_web 访问姊妹页面。
+As stated above, this is a web project, a container designed for web testing.
+It is limited to static websites, and both update and access speeds are slow.
+This project is unstable; it may be updated, modified, or even removed at any moment...
 
-此外，本项目引用了另一个开源项目 https://github.com/zbf1999/note/tree/master/parallaxScrollingWebsite01 请尊重绝大多数开源项目的作者。
+Access via this link: https://bin541.github.io/Ths-is-a-web/
+Access the sister page: https://bin541.github.io/Ths-is-a-web/study_web
+
+Furthermore, this project references another open-source project: https://github.com/zbf1999/note/tree/master/parallaxScrollingWebsite01
